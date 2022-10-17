@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning Front-End Web Development.
+🌱 I’m currently continue improving on Front-End Web Development.
 - 📫 How to reach me: israel@soluciondigital.cr
